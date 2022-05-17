@@ -1,0 +1,56 @@
+CRITICAL - 2022-05-17 06:53:41 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter\ci4\spark(45): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-17 00:01:38 --> Invalid file: Users/edit_user.php
+#0 D:\xampp\htdocs\codeigniter\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Users/edit_user...')
+#1 D:\xampp\htdocs\codeigniter\ci4\system\Common.php(1089): CodeIgniter\View\View->render('Users/edit_user', Array, true)
+#2 D:\xampp\htdocs\codeigniter\ci4\app\Controllers\UserCrud.php(32): view('Users/edit_user', Array)
+#3 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(832): App\Controllers\UserCrud->singleUser('107')
+#4 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#5 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\codeigniter\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\codeigniter\ci4\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-17 00:02:40 --> Invalid file: Users/edit_user.php
+#0 D:\xampp\htdocs\codeigniter\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Users/edit_user...')
+#1 D:\xampp\htdocs\codeigniter\ci4\system\Common.php(1089): CodeIgniter\View\View->render('Users/edit_user', Array, true)
+#2 D:\xampp\htdocs\codeigniter\ci4\app\Controllers\UserCrud.php(32): view('Users/edit_user', Array)
+#3 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(832): App\Controllers\UserCrud->singleUser('107')
+#4 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#5 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\codeigniter\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\codeigniter\ci4\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-17 00:02:56 --> Invalid file: Users/edit_user.php
+#0 D:\xampp\htdocs\codeigniter\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Users/edit_user...')
+#1 D:\xampp\htdocs\codeigniter\ci4\system\Common.php(1089): CodeIgniter\View\View->render('Users/edit_user', Array, true)
+#2 D:\xampp\htdocs\codeigniter\ci4\app\Controllers\UserCrud.php(32): view('Users/edit_user', Array)
+#3 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(832): App\Controllers\UserCrud->singleUser('107')
+#4 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#5 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\codeigniter\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\codeigniter\ci4\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-17 00:03:49 --> Invalid file: Users/edit_user.php
+#0 D:\xampp\htdocs\codeigniter\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Users/edit_user...')
+#1 D:\xampp\htdocs\codeigniter\ci4\system\Common.php(1089): CodeIgniter\View\View->render('Users/edit_user', Array, true)
+#2 D:\xampp\htdocs\codeigniter\ci4\app\Controllers\UserCrud.php(33): view('Users/edit_user', Array)
+#3 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(832): App\Controllers\UserCrud->singleUser('107')
+#4 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#5 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\codeigniter\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\codeigniter\ci4\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-17 00:04:53 --> Invalid file: Users/edit_user.php
+#0 D:\xampp\htdocs\codeigniter\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Users/edit_user...')
+#1 D:\xampp\htdocs\codeigniter\ci4\system\Common.php(1089): CodeIgniter\View\View->render('Users/edit_user', Array, true)
+#2 D:\xampp\htdocs\codeigniter\ci4\app\Controllers\UserCrud.php(33): view('Users/edit_user', Array)
+#3 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(832): App\Controllers\UserCrud->singleUser('107')
+#4 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#5 D:\xampp\htdocs\codeigniter\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\codeigniter\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\codeigniter\ci4\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
